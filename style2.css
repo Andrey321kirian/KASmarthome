@@ -68,3 +68,8 @@ li {
 img {
 max-width: 980px;
 }
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
