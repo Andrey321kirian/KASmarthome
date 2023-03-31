@@ -73,3 +73,18 @@ max-width: 980px;
   display: block;
   margin: 0 auto;
 }
+
+.conteiner {
+ display: flex;
+ flex-direction: row;
+ 
+}
+.vk {
+ margin-left: 5px;
+ margin-top: 5px;
+}
+
+.wp {
+ margin-top: 5px;
+ margin-left: 5px;
+}
