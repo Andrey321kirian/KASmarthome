@@ -75,6 +75,7 @@ max-width: 980px;
 }
 
 .conteiner {
+ padding-left: 50px;
  display: flex;
  flex-direction: row;
  
